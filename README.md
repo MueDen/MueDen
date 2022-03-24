@@ -1,6 +1,6 @@
 
 # The story of the empty repository
-As i was working on my Machine learning and natural language processing assignments, it was brought to my attention, that this repository conatains no ```README.md``` file. 
+As i was working on my assignments, it was brought to my attention, that this repository conatains no ```README.md``` file. 
 What a grave oversight on my part, for leaving this poor repository stranded for 2 years without a single commit 😥.
 
 ## Getting Started
